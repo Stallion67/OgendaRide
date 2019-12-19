@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39265062537",
+    "firebase_url": "https://ogenda-ride-de3bd.firebaseio.com",
+    "project_id": "ogenda-ride-de3bd",
+    "storage_bucket": "ogenda-ride-de3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39265062537:android:28c17492aacfa9105e0058",
+        "android_client_info": {
+          "package_name": "com.example.ogenda_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39265062537-3fl39hnntosj5n26vb6npjojga0ru1ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ogenda_ride",
+            "certificate_hash": "a318fdc18cccd09ebe3ae5790ada1c6dc20e1866"
+          }
+        },
+        {
+          "client_id": "39265062537-650nvejul0s3p4ov5am8e8ffqvgjq5kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvPuuiBFGaF50Z7Ebt5xgmqgJWOEp-9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39265062537-650nvejul0s3p4ov5am8e8ffqvgjq5kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
